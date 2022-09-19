@@ -8,14 +8,50 @@ a{
 }
 ul{
     list-style: none;
+   
+
 }
 header {
 	
 	background-color: #0020F4;
+    height: 388px;
+    
+}
+.sky{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 240px;
 }
 nav a{
     color: #FFFFFF;
 }
+nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 603px;
+}
+header  li{
+    display: inline-block;
+    margin: 18px;
+}
+.cont {
+    background-color: white;
+    border: none;
+    border-radius: 28px;
+    padding: 18px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.cont a{
+    color: #171717;
+    font-weight: bolder;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 
 
 .rectangle{
@@ -43,17 +79,78 @@ nav a{
 }
 .about p{
     margin: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.about button{
+button{
     background-color: #0A22F4;
+    display: inline-block;
     border-radius: 28px;
     color: #FFFFFF;
     font-size: 16px;
     padding: 18px 57px;
-    margin-top: 58px;
+    margin-top: 58px ;
     margin-left: 400px;
+    border: none;
+    
+    
+}
+footer {
+    background-color: #0020F4;
+    margin-top: 180px;
+}
+.contact{
+    width: 463px;
+    padding-left: 240px;
+}
+.contact h3{
+    font-size: 28px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+    padding-top: 275px;
+    
+}
+.contact p{
+    color: #FFFFFF;
+    font-size: 16px;
+   
+}
+iframe{
+    width: 463px;
+    height: 197px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
 
+.icon img p{
+    display: inline;
+    
+}
+.icon1 p{
+    display: inline-block;
+    color: #FFFFFF;
+    margin-left: 240px ;
+    margin-top: 324px;
+    margin-bottom: 40px;
 
+}
+.icon2 p{
+    display: inline-block;
+    margin-left: 896px;
+    color: #FFFFFF;
+    vertical-align: middle;
+}
+.icon2 img{
+    vertical-align: middle;
+}
+h4{
+    display: inline-block;
+    color: #FFFFFF;
+    vertical-align: middle;
+}
+.icon3 img{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
 }
 
 
